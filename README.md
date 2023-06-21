@@ -8,7 +8,7 @@ B+ ถึง F ตามเกณฑ์
 -Homework 25%
 -Quiz 10%
 -Project (กลุ่มเลือกเอง) 30%
--Midterm 15% (กลุ่ม-สุ่ม)
--Final 20%
+-Midterm 15% 
+-Final 20% (กลุ่ม-สุ่ม)
 
 Final Score = Score * Attendence
